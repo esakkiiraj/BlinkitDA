@@ -80,11 +80,8 @@ Connect with me on [LinkedIn](https://www.linkedin.com/esakkirajiyyappan/) or dr
 
 <h2>📌 Preview</h2>
 
-> *(Insert a screenshot or GIF of the dashboard here for better presentation)*
+>![image](https://github.com/user-attachments/assets/cdee9dad-5431-4bdd-ab3a-17cb91779787)
 
 ---
 
-<h2>#️⃣ Tags</h2>
-
-`#PowerBI` `#DataAnalytics` `#BlinkitDashboard` `#QuickCommerce` `#EcommerceInsights` `#KPITracking` `#ProductAnalysis`
 
