@@ -74,7 +74,7 @@ This dashboard is ideal for:
 <h2>📬 Feedback</h2>
 
 Feel free to share your feedback or suggest improvements!  
-Connect with me on [LinkedIn](https://www.linkedin.com) or drop a ⭐ if you found this useful.
+Connect with me on [LinkedIn](https://www.linkedin.com/esakkirajiyyappan/) or drop a ⭐ if you found this useful.
 
 ---
 
